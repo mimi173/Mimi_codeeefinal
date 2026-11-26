@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.netbeans.external:AbsoluteLayout:RELEASE310">
+    <archive path="C:/Users/Noemy/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE310/AbsoluteLayout-RELEASE310.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-nop:2.0.17">
+    <archive path="C:/Users/Noemy/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar" />
+  </library>
+  <library name="Maven: org.xerial:sqlite-jdbc:3.54.1.0">
+    <archive path="C:/Users/Noemy/.m2/repository/org/xerial/sqlite-jdbc/3.54.1.0/sqlite-jdbc-3.54.1.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:2.0.17">
+    <archive path="C:/Users/Noemy/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar" />
+  </library>
+</eclipse-userlibraries>
+
