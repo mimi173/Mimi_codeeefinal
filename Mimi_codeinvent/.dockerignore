@@ -1,0 +1,12 @@
+.idea
+.git
+target
+out
+*.iml
+*.eml
+.classpath
+.project
+Credenciales_de sistema.md
+*.db
+*.db-wal
+*.db-shm
